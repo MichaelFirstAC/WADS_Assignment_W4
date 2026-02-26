@@ -8,7 +8,7 @@
 
 - Add screenshot file and update the path below.
 
-![Next.js Structure Screenshot](documentation/screenshots/next-structure.png)
+![Next.js Structure Screenshot](screenshots/nextstruct.png)
 
 ## List of APIs
 
@@ -24,7 +24,7 @@
 
 - Add screenshot file and update the path below.
 
-![Swagger Docs Screenshot](documentation/screenshots/api-docs.png)
+![Swagger Docs Screenshot](screenshots/swaggerss.png)
 
 ## Swagger / OpenAPI Routes
 
