@@ -6,8 +6,6 @@
 
 ## Screenshot - Next.js Structure
 
-- Add screenshot file and update the path below.
-
 ![Next.js Structure Screenshot](screenshots/nextstruct.png)
 
 ## List of APIs
@@ -21,8 +19,6 @@
 | DELETE | `/api/users/{id}` | Delete user by ID | - |
 
 ## Screenshot - /api/docs Route
-
-- Add screenshot file and update the path below.
 
 ![Swagger Docs Screenshot](screenshots/swaggerss.png)
 
